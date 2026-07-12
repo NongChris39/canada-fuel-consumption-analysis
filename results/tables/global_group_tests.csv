@@ -1,0 +1,4 @@
+group_column,group_count,groups,sample_size,kruskal_h,p_value,epsilon_squared
+Drivetrain inferred,2,"4WD / 4x4, AWD",3053,749.7612723901319,4.521781396772477e-165,0.24541503519833888
+Fuel type,4,"D, E, X, Z",10057,1561.2535633863868,0.0,0.15500383600779735
+Manufacturer country,7,"Germany, Italy, Japan, South Korea, Sweden, United Kingdom, United States",10058,1938.9873032344635,0.0,0.19231790898760953

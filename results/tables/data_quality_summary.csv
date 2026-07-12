@@ -1,0 +1,9 @@
+metric,value
+overall_completeness,0.9777159143633593
+overall_quality_score_out_of_10,9.957579372970105
+valid_model_year,1.0
+valid_engine_size,1.0
+valid_cylinders,1.0
+valid_consumption,1.0
+highway_combined_city_consistency,0.974547623782064
+valid_fuel_type,1.0

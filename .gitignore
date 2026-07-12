@@ -13,8 +13,4 @@ env/
 Thumbs.db
 data/raw/
 data/processed/
-results/figures/*
-!results/figures/.gitkeep
-results/tables/*
-!results/tables/.gitkeep
 *.log
